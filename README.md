@@ -1,7 +1,3 @@
-![Spotify](https://open.spotify.com/track/2Sh4sAOfnSHEVKFyysxzat?si=543c65ab963e449c)
-![Spotify](https://open.spotify.com/track/7uvtPp6So6MtrGSC3LpKfs?si=3578c1d9932a4157)
-
-
 ## **Hi, I'm Rani Prakoso! 👋** ##
 
 Welcome to my GitHub profile! I am a passionate software developer with a keen interest in building scalable and efficient applications. Here you’ll find some of the projects I've been working on and some insights into my skills and interests.
